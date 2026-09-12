@@ -136,23 +136,6 @@ I enjoy solving infrastructure challenges and transforming manual processes into
 ✅ Helm Fundamentals  
 
 
----
-
-## 📊 GitHub Stats
-
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mutahirtayyab&show_icons=true&theme=tokyonight" />
-</p>
-
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutahirtayyab&layout=compact&theme=tokyonight" />
-</p>
-
-
----
-
 ## 🤝 Connect With Me
 
 
